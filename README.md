@@ -9,5 +9,3 @@ I currently have experience in applications developed with technologies around R
 
 ### 📚 Always looking to learn more
 Every day I seek to learn more about the web and mobile development ecosystem.
-
-*I'm currently looking for a job to work with the React and Node.js stack.*
